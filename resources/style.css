@@ -4,19 +4,28 @@ body{
   color:White;
   font-family:Verdana;
 }
+
 h1{
   font-weight: normal;
   font-size:50px;
 }
 
-p{
-
+h2{
+  font-weight 300;
+  font-size: 42px;
 }
 
-.video{
+h3{
+  font-size: 21px;
+  color:Gray;
+}
 
+.cta{
+  color: Aquamarine;
+  font-size:16px;
 }
 
 .footer{
   text-align: right;
+  color: Gray;
 }
